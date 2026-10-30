@@ -1,0 +1,7 @@
+Welcome to AI Basics. I'm your presenter, and in this series we'll make artificial intelligence simple.
+
+Artificial intelligence is software that learns patterns from data, instead of following only hand-written rules.
+
+You already use it every day: search, maps, spam filters, and voice assistants.
+
+In the next episode, we'll look at how these models actually learn. See you there.

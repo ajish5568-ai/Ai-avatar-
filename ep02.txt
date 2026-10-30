@@ -1,0 +1,7 @@
+Welcome back. Today we're looking at how a model learns.
+
+First, we collect examples. Then the model makes a guess, measures how wrong it was, and adjusts itself slightly.
+
+Repeat that millions of times, and useful patterns emerge.
+
+That's training in a nutshell. Thanks for watching.
